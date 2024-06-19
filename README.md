@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=QueryDSL&logoColor=aqua&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=QueryDSL&logoColor=aqua&logoSize=auto&label=auto&color=white">
   <br>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript-F7DF1E&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;
