@@ -1,4 +1,5 @@
-## Hi there 👋
+FrontEnd
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript-F7DF1E&logoColor=yellow">
 
 <!--
 **JYH94/JYH94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
